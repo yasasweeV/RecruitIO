@@ -1,0 +1,4 @@
+Reason for Choosing JMeter
+1. Open Source tool - No Licensing cost
+2. One of the best tool for performance testing web applications and API Performance testing
+3. Can be used to test with Multiple Users (No Limit on the number of users and restricted only by testing machines capacity)
